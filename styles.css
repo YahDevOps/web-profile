@@ -9,3 +9,11 @@ H2 {
   font-family: Arial, Candara, Calibri;
  font-size: 14px;
 }
+
+
+body{
+  background: yellow;
+  margin: auto;
+  padding: 50px;
+  height: 500px;
+}
